@@ -1,0 +1,1 @@
+I'm going through the Odin project and making some sort of really basic recipe site. Neato.
